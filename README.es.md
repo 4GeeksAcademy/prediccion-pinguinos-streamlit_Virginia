@@ -1,7 +1,7 @@
 # Plantilla de Proyecto de Ciencia de Datos
 
 Esta plantilla está diseñada para impulsar proyectos de ciencia de datos proporcionando una configuración básica para conexiones de base de datos, procesamiento de datos, y desarrollo de modelos de aprendizaje automático. Incluye una organización estructurada de carpetas para tus conjuntos de datos y un conjunto de paquetes de Python predefinidos necesarios para la mayoría de las tareas de ciencia de datos.
-
+App desplegada: https://prediccion-pinguinos-streamlit-virginia.onrender.com/
 ## Estructura
 
 El proyecto está organizado de la siguiente manera:
